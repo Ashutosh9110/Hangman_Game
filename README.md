@@ -3,4 +3,4 @@
 An easy code for beginners used Python language
 
 
-![image](https://user-images.githubusercontent.com/113494449/236860500-99851b48-6a3f-4087-a938-e30fdb4ee775.png)
+![image](https://user-images.githubusercontent.com/113494449/236861056-e8f6d61e-0120-45bf-89a4-4a9d310c7f78.png)
